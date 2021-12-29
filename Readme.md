@@ -63,6 +63,7 @@ Sebuah Perusahaan Ayam goreng dengan nama Gerobak Fried Chicken yang telah lumay
 |   D  | Dada  | Rp. 5.000,- |
 |   P  | Paha  | Rp. 4.000,- |
 |   S  | Sayap | Rp. 3.000,- |
+
 Dengan ketentuan setiap pembelian akan dikenakan pajak sebesar 10% dari total pembelian.
 
 **Input :**
